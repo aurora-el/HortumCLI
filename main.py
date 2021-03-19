@@ -18,7 +18,7 @@ def main():
     print(styleDict['clear'])
     print('''Developed by Aurora Long
 2021
-github
+https://github.com/GooseLong/HortumCLI
 PRs Welcome!
 ''')
     while True:
