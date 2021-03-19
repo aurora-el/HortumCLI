@@ -1,6 +1,7 @@
 # HortumCLI
 Command Line Interface to search  NetrunnerDB
 
+![HortumCLI_Screenshot](/Screenshot.png)
 
 ## How to Install
  1. Download zip file
